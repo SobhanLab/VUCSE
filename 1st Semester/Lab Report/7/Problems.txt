@@ -1,0 +1,10 @@
+Lab Report-7
+1.	Write a C program to assign random numbers into an array.[ Hint : rand() ]
+2.	Write a C program to calculate the sum of an array elements.
+3.	Write a C program to calculate the sum of all prime numbers in an array of integers.
+4.	Write a C program to calculate the Evensum and Oddsum of all prime numbers in an array of integers.
+5.	Write a C program to search an element from an array.
+6.	Write a C program to find MAX/MIN element in an array
+7.	Write a C program to sort elements of an array in…
+I.	Ascending order
+II.	Descending Order
