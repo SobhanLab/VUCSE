@@ -5,9 +5,9 @@
 int main() {
   srand(time(NULL));
   int lower, upper, guess;
-  printf("A = ");
+  printf("A: ");
   scanf("%d", &lower);
-  printf("B = ");
+  printf("B: ");
   scanf("%d", &upper);
 
   int point = 10;
@@ -19,7 +19,7 @@ int main() {
 
     if (guess == lucky_number) {
       printf("Congratulations! You guessed the number!\n");
-      printf("Your Score = %d\n", 10 - tries);
+      printf("Your score: %d\n", 10 - tries);
       return 0;
     } else if (guess < lucky_number) {
       printf("Low\n");
